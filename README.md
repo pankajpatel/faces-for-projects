@@ -1,3 +1,3 @@
 # faces-for-projects
 
-Taken from Semanti-UI site.
+Taken from Semantic-UI site (http://semantic-ui.com/).
